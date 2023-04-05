@@ -1,0 +1,10 @@
+{
+  "title": "Electron React TypeScript Localise (i18next)",
+  "starthint": "Use the dropdown to change language",
+  "englishOption": "English",
+  "polishOption": "Polish",
+  "russianOption": "Russian",
+  "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "langNow": "Now language is:",
+  "butDoc": "Read our docs"
+}

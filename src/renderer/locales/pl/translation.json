@@ -1,0 +1,10 @@
+{
+  "title": "Electron React TypeScript Lokalizacja (i18next)",
+  "starthint": "Użyj listy rozwijanej, aby zmienić język",
+  "englishOption": "Angielski",
+  "polishOption": "Polski",
+  "russianOption": "Rosyjski",
+  "lorem": "Ważna jest opieka nad pacjentem, pod opieką lekarza, ale jest to czas wielkiego bólu i cierpienia. Aby przejść do najdrobniejszego szczegółu, nikt nie powinien wykonywać żadnej pracy, jeśli nie czerpie z niej korzyści.",
+  "langNow": "Teraz jest ustawiony jezyk:",
+  "butDoc": "Czytaj nasza dokumentacje"
+}
